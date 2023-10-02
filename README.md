@@ -23,4 +23,4 @@ The affected buildings are determined by
 * buffering the travel distance to intersect land parcels, 
 * extracting building footprints that then intersect the land parcels.
 
-[Start here...](../master/QGIS-Processing-Models-and-the-Graphical-Modeller.md)
+[Start here...](QGIS-Processing-Models-and-the-Graphical-Modeller.md)
