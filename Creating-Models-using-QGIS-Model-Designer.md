@@ -1,3 +1,52 @@
+# Workshop Setup
+
+## QGIS
+- [ ] Ensure you have **QGIS 3.28** or better installed.
+
+## Install Workshop Files
+
+- [ ] Download the Workshop.zip file from  https://data.whanganui.govt.nz/wdc/foss4g/2023/Workshops.zip
+
+- [ ] Unzip the contents to the folder **C:\Workshops**
+
+  ![Alt text](assets/image-setup-1.png)
+
+## Run the Workshop Project
+
+- [ ] *Double click* the QGIS project file **qgis_models_workshop.qgz** to run QGIS and open the workshop project
+
+### Set additional path for python scripts
+- [ ] From the **Settings** menu choose **Options**
+
+- [ ] Select the **Processing** Panel
+
+- [ ] Expand **Scripts**
+
+- [ ] *Double click* the current path value for Scripts folder
+
+- [ ] Click the **Options** button ![Alt text](assets/image-option-button.png) on the left hand side of the path value
+
+- [ ] Add the path to the workshops scripts folder e.g. **"C:\Workshops\scripts"**
+
+  ![Alt text](assets/image-setup-2.png)
+
+- [ ] Click the **OK** button
+
+- [ ] Click the **OK** button to exit the options dialog
+
+
+
+
+
+
+
+
+
+
+---
+
+---
+
 # Processing Models
 
 The objectives of this workshop are to learn about:

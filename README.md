@@ -2,10 +2,10 @@
 
 A FOSS4G SotM Oceania 2023 Workshop
 
-> Requirements:
+> Workshop Requirements:
 >
 > * QGIS 3.28+ LTR
-> * Pick a point script https://github.com/pgssimon/qgis_pick_a_point
+> * Workshop files https://data.whanganui.govt.nz/wdc/foss4g/2023/Workshops.zip
 
 
 The Model Designer is a powerful QGIS component that we can use to define a workflow that will run a chain of algorithms (a processing model).
